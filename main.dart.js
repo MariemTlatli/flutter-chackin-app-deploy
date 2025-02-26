@@ -45987,7 +45987,7 @@ Xk(a,b){return this.qB(0,b,null)},
 Xl(a,b,c){var s=0,r=A.P(t.z),q,p=2,o,n=this,m,l,k,j,i,h,g
 var $async$qB=A.Q(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
-m=A.hn("http://192.168.31.1:4500/api/v1/"+b)
+m=A.hn("http://localhost:4500/api/v1/"+b)
 i=t.N
 l=A.B(i,i)
 k=c
@@ -46019,7 +46019,7 @@ anH(a,b){var s=0,r=A.P(t.z),q,p=2,o,n=this,m,l,k,j,i,h,g,f
 var $async$qj=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:g=null
 p=4
-m=A.hn("http://192.168.31.1:4500/api/v1/"+a)
+m=A.hn("http://localhost:4500/api/v1/"+a)
 i=t.N
 l=A.B(i,i)
 k=g
